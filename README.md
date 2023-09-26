@@ -1,6 +1,7 @@
-# RedMadRobot Technology Radar
+# OSP Draft for Technology Radar
 
-RedMadRobot Technology Radar, inspired by [AOE TechRadar](https://www.aoe.com/techradar/index.html)
+OSP Draft Technology Radar, inspired by [AOE TechRadar](https://www.aoe.com/techradar/index.html)
+and [AOE TechRadar](https://github.com/RedMadRobot/techradar-android)
 
 ## Build the radar
 
