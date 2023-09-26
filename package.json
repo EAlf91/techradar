@@ -4,7 +4,7 @@
     "main": "index.js",
     "license": "MIT",
     "scripts": {
-        "build": "REACT_APP_RADAR_NAME='RMR Technology Radar' npx aoe_technology_radar-buildRadar",
+        "build": "REACT_APP_RADAR_NAME='OSP Draft AI Technology Radar' npx aoe_technology_radar-buildRadar",
         "postbuild": "npm run generateJson",
         "prebuild:static": "npm run build",
         "build:static": "npx aoe_technology_radar-createStaticFiles",
@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/RedMadRobot/techradar-android"
+        "url": "https://github.com/EAlf91/techradar"
     },
     "keywords": [
         "tech-radar",
