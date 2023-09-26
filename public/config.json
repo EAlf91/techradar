@@ -3,7 +3,7 @@
         "libraries-and-frameworks": "Libraries & Frameworks",
         "methods-and-patterns": "Methods & Patterns",
         "languages": "Languages",
-        "papers": "Utilities"
+        "papers": "Papers"
     },
     "rings": ["adopt", "trial", "assess", "hold"],
     "showEmptyRings": false,
@@ -27,11 +27,11 @@
             "position": 3,
             "description": "languages description"
         },
-        "utilities": {
+        "papers": {
             "colour": "#F2A25C",
             "txtColour": "white",
             "position": 4,
-            "description": "utilities description"
+            "description": "paper description"
         }
     },
     "chartConfig": {
