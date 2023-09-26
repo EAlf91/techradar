@@ -1,89 +1,60 @@
 {
-  "footerFootnote": "Роботы помогают людям запускать цифровые сервисы в финтехе, телекоме, банках, ритейле, страховании, e-commerce, медицине и промышленности. Мы пишем код, проектируем удобные интерфейсы, исследуем и анализируем рынки, пользователей и конкурентов, находим и тестируем гипотезы, запускаем MVP, трансформируем бизнес-процессы и докапываемся до самой сути.",
+  "footerFootnote": "Tech Radar for AI Stuff used in our team",
   "socialLinks": [
-    { "href": "https://www.facebook.com/redmadrobot", "iconName": "facebook" },
-    { "href": "https://twitter.com/redmadrobot", "iconName": "twitter" },
     {
-      "href": "https://www.instagram.com/red_mad_robot",
+      "href": "https://www.instagram.com/ottogroupsolutionprovider/",
       "iconName": "instagram"
-    },
-    {
-      "href": "https://www.youtube.com/channel/UCNsKb10vKvLCx3C0Yijmp0w",
-      "iconName": "youtube"
-    },
-    { "href": "https://github.com/RedMadRobot", "iconName": "github" }
+    }
   ],
   "pageHelp": {
     "paragraphs": [
       {
-        "headline": "Введение",
+        "headline": "How To use",
         "values": [
-          "Технологии развиваются быстро, и что-то новое появляется постоянно.",
-          "Нам важно постоянно совершенствоваться и следить за последними инновациями.",
-          "Так же важно как и время от времени ставить под сомнение устоявшиеся технологии и методы."
+          "Click on the quadrants to change the radar chart.",
         ]
-      },
-      {
-        "headline": "Что такое тех радар",
-        "values": [
-          "Технологический радар - это обзор различных технологий - от языков, фреймворков, инструментов и паттернов до платформ - которые мы используем, или на которые обратили внимание.",
-          "Данный радар не дает обзор всех существующих технологий, а фокусируется на тех, которые используются или исследуются в нашей компании."
-        ]
-      },
-      {
-        "headline": "Как создается",
-        "values": [
-          "Радар создается разработчиками из различных команд и проектов. Мы не включаем в радар ничего, чего бы не опробовали хотя бы раз."
-        ]
-      },
-      {
-        "headline": "Как использовать",
-        "values": [
-          "Радар представляет собой обзор технологий, которые могут быть интересны любому члену команды.",
-          "Его цель - служить руководством для ежедневной работы роботов. На его основе можно принимать более обоснованные и взвешенные решения."
-        ]
-      }
+      }    
     ],
     "quadrants": [
       {
         "name": "Libraries & Frameworks",
-        "description": "Сюда попадают библиотеки и фреймворки, полезные для реализации ПО."
+        "description": "libraries and frameworks"
       },
       {
         "name": "Utilities",
-        "description": "Здесь мы размещаем различные программные инструменты - от небольших утилит до более крупных программных проектов."
+        "description": "utilities"
       },
       {
         "name": "Methods & Patterns",
-        "description": "Паттерны и подходы очень важны, т.к. многие из них оказывают большее и продолжительное влияние на проекты. В эту категорию попадает информация о методах и паттернах, касающихся разработки, сontinuous X, тестировании, организации, архитектуре и т.д."
+        "description": "methods and patterns"
       },
       {
         "name": "Languages",
-        "description": "Языки на которых пишут роботы."
+        "description": "English"
       }
     ],
     "rings": [
       {
         "name": "Adopt",
-        "description": "Технологии которые активно используются в компании и доказали свою эффективность."
+        "description": "adopt"
       },
       {
         "name": "Trial",
-        "description": "Технологии которые прошли все этапы тестирования на стейджах или даже в продакшене и готовятся после пристального внимания на них перейти в активно используемые технологии."
+        "description": "trial"
       },
       {
         "name": "Assess",
-        "description": "Технологии которые используются в тестовых проектах и не факт, что доберутся до стадии их масштабирования и адаптации, но почерпнуть что-то новое от их использования будет полезно."
+        "description": "assess"
       },
       {
         "name": "Hold",
-        "description": "Технологии которые используются, по ним есть экспертиза, но они или уже устарели или появились более оптимальные технологии и для новых проектов стоит выбрать что-то другое."
+        "description": "hold"
       }
     ],
     "sourcecodeLink": {
-      "href": "https://github.com/RedMadRobot/techradar-android",
-      "name": "RedMadRobot Technical Radar on GitHub",
-      "description": "Contributions and source code of the RedMadRobot Technical Radar on GitHub:"
+      "href": "https://github.com/EAlf91/techradar",
+      "name": "OSP Technical Radar on GitHub",
+      "description": "Contributions and source code of the OSP Technical Radar on GitHub:"
     }
   }
 }
