@@ -13,25 +13,25 @@
             "colour": "#84BFA4",
             "txtColour": "#444444",
             "position": 1,
-            "description": "Сюда попадают библиотеки и фреймворки, полезные для реализации ПО."
+            "description": "some library and framework"
         },
         "methods-and-patterns": {
             "colour": "#248EA6",
             "txtColour": "white",
             "position": 2,
-            "description": "Паттерны и подходы очень важны, т.к. многие из них оказывают большее и продолжительное влияние на проекты. В эту категорию попадает информация о методах и паттернах, касающихся разработки, сontinuous X, тестировании, организации, архитектуре и т.д."
+            "description": "description for methods and patterns"
         },
         "languages": {
             "colour": "#F25244",
             "txtColour": "#444444",
             "position": 3,
-            "description": "Языки на которых пишут роботы."
+            "description": "languages description"
         },
         "utilities": {
             "colour": "#F2A25C",
             "txtColour": "white",
             "position": 4,
-            "description": "Здесь мы размещаем различные программные инструменты - от небольших утилит до более крупных программных проектов."
+            "description": "utilities description"
         }
     },
     "chartConfig": {
