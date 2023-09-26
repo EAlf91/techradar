@@ -3,7 +3,7 @@
         "libraries-and-frameworks": "Libraries & Frameworks",
         "methods-and-patterns": "Methods & Patterns",
         "languages": "Languages",
-        "utilities": "Utilities"
+        "papers": "Utilities"
     },
     "rings": ["adopt", "trial", "assess", "hold"],
     "showEmptyRings": false,
